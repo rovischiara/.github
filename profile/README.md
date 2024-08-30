@@ -23,7 +23,7 @@
 
 ## 📱 &nbsp; Contacts
 
-- VAT number: ITXXX
+- VAT number: IT03154070308
 - Phone Number: +39 377 904 8252
 - Email:  chiara@chiararovis.com
 - PEC: chiara.rovis@pec.fiscozen.it
